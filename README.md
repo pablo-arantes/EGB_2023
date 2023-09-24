@@ -1,6 +1,8 @@
 # Escola Gaúcha de Bioinformática EGB 2023
 **Simulações de Dinâmica Molecular em Nuvem (Making it Rain)**
 
+![alt text](https://github.com/pablo-arantes/Making-it-rain/blob/main/GraphAbs.png)
+
 26/09/2023 - 10:30 – 12:10; 13:30 – 15:10 - Online
 
 27/09/2023 - 10:30 – 12:10; 13:30 – 15:10 - Online
