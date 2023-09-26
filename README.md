@@ -13,6 +13,12 @@ Notebooks dia 1:
 
 27/09/2023 - 10:30 – 12:10; 13:30 – 15:10 - Online
 
+Notebooks dia 2:
+
+1. **Docking** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB_2023/blob/main/Uni_Dock_EGB.ipynb)  - `Using Uni-Dock to perform GPU-accelerated molecular docking calculations. It supports various scoring functions including vina and vinardo.`
+2. **Protein-Ligand simulations** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/making-it-rain/blob/main/Protein_ligand.ipynb)  - `Using AMBER to generate topology and to build the simulation box and for the ligand using GAFF2 force field`
+3. **Mutations** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB_2023/blob/main/Amber_mutations_EGB.ipynb)  - `Perform mutations on protein or DNA/RNA and use AMBER to generate topology and to build the simulation box`
+4. 
 28/09/2023 - 10:30 – 12:10; 13:30 – 15:10 - Online
 
 **Instrutores:** Conrado Pedebos – UFCSPA; Marcelo Poleto – Virginia Tech University; Pablo Arantes – Califórnia Riverside University
