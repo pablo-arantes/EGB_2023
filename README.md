@@ -5,6 +5,12 @@
 
 26/09/2023 - 10:30 – 12:10; 13:30 – 15:10 - Online
 
+Notebooks dia 1:
+
+1. **CHARMM** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Making-it-rain/blob/main/CHARMM_GUI.ipynb) - `Using inputs from CHARMM-GUI solution builder`
+2. **AlphaFold2+MD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Making-it-rain/blob/main/AlphaFold2%2BMD.ipynb) - `Using AlphaFold2_mmseqs2 to generate protein model + MD simulation using AMBER to generate topology and to build simulation box`
+
+
 27/09/2023 - 10:30 – 12:10; 13:30 – 15:10 - Online
 
 28/09/2023 - 10:30 – 12:10; 13:30 – 15:10 - Online
