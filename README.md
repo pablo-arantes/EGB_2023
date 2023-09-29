@@ -21,6 +21,13 @@ Notebooks dia 2:
 
 28/09/2023 - 10:30 – 12:10; 13:30 – 15:10 - Online
 
+Notebooks dia 3:
+
+1. **Protein Membrane** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB_2023/blob/main/Protein_Membranes_EGB.ipynb)  - `Using AMBER force field to generate topology and to build the membrane and the simulation box`
+2. **Protein Coarse-Grained** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB_2023/blob/main/Dia03_Martini_cg2all.ipynb)  - `Using MARTINI force field to generate topology and to build the simulation box and cg2all to convert the trajectory to atomistic`
+
+**Slides**: [Simulações de Dinâmica Molecular em Nuvem (Making it Rain)](https://raw.githubusercontent.com/pablo-arantes/EGB_2023/main/EGB%20-%20MC05_%20Simulac%CC%A7o%CC%83es%20de%20DM%20na%20Nuvem.pdf)
+
 **Instrutores:** Conrado Pedebos – UFCSPA; Marcelo Poleto – Virginia Tech University; Pablo Arantes – Califórnia Riverside University
 
 **Carga Horaria:** 15h/aulas
